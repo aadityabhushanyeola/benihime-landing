@@ -1,0 +1,16 @@
+node_modules
+dist
+*.log
+*.tsbuildinfo
+tmp/
+.env*
+!.env.example
+/*.pdf
+/*.zip
+/*.mp4
+/*.webm
+/reference-benihime.html
+/src/content/
+/public/media/intro.mp4
+/public/media/intro-poster.jpg
+/public/media/katana-intro.webm
